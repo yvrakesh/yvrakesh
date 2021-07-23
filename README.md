@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yvrakesh&label=Views&color=0e75b6&style=flat" alt="yvrakesh" /> </p>
 <a href="https://github.com/yvrakesh"><img src="https://github-profile-trophy.vercel.app/?username=yvrakesh&theme=darkhub&row=2&column=3&margin-w=5&margin-h=5" alt="yvrakesh" /></a> </p>
 
-<a href="https://github.com/yvrakesh"><img alt="Yacha Venkata Rakesh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=yvrakesh&count_private=true&include_all_commits=true&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="210px"/></a>
-<a href="https://github.com/yvrakesh"><img alt="Yacha Venkata Rakesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvrakesh&count_private=true&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="210px"/></a>
+<a href="https://github.com/yvrakesh"><img alt="Yacha Venkata Rakesh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=yvrakesh&count_private=true&include_all_commits=true&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/yvrakesh"><img alt="Yacha Venkata Rakesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvrakesh&count_private=true&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 
 <a href="https://github.com/yvrakesh"><img alt="Yacha Venkata Rakesh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yvrakesh&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
