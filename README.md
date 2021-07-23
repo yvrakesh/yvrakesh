@@ -17,10 +17,15 @@ Here are some ideas to get you started:
 
 📫 How to reach me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-yvrakesh-blue?style=flat-rectangle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yvrakesh/)](https://www.linkedin.com/in/yvrakesh/)
-[![Instagram Badge](https://img.shields.io/badge/-yvrakesh7-purple?style=rectangle&logo=instagram&logoColor=white&link=https://instagram.com/yvrakesh7/)](https://instagram.com/yvrakesh7)
+[![Linkedin Badge](https://img.shields.io/badge/-yvrakesh-blue?style=flat-rectangle&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yvrakesh/)
+[![Instagram Badge](https://img.shields.io/badge/-yvrakesh7-purple?style=rectangle&logo=instagram&logoColor=white)](https://instagram.com/yvrakesh7)
+[![Facebook Badge](https://img.shields.io/badge/yvrakesh7-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/yvrakesh7)
 [![Gmail Badge](https://img.shields.io/badge/-yachavenkatarakesh-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yachavenkatarakesh@gmail.com)](mailto:yachavenkatarakesh@gmail.com)
-[![Codechef Badge](https://img.shields.io/badge/-yachavenkatarakesh-5B4638?style=flat-square&logo=CodeChef&logoColor=white&link=https://www.codechef.com/users/yvrakesh)](https://www.codechef.com/users/yvrakesh)
+[![Leetcode Badge](https://img.shields.io/badge/-yvrakesh-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/yvrakesh/)
+[![Hackerrank Badge](https://img.shields.io/badge/-yvrakesh-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/yvrakesh?hr_r=1)
+
+[![Codechef Badge](https://cp-logo.vercel.app/codechef/yvrakesh)](https://www.codechef.com/users/yvrakesh)
+[![Codeforces Badge](https://cp-logo.vercel.app/codeforces/venkatarakesh1234y)](https://codeforces.com/profile/venkatarakesh1234y)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yvrakesh&label=Views&color=0e75b6&style=flat" alt="yvrakesh" /> </p>
 <a href="https://github.com/yvrakesh"><img src="https://github-profile-trophy.vercel.app/?username=yvrakesh&theme=darkhub&row=2&column=3&margin-w=5&margin-h=5" alt="yvrakesh" /></a> </p>
