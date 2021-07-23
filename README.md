@@ -37,5 +37,12 @@ Here are some ideas to get you started:
 <a href="https://github.com/yvrakesh"><img src="https://github-profile-trophy.vercel.app/?username=yvrakesh&theme=darkhub&row=2&column=3&margin-w=5&margin-h=5" width="400px" alt="yvrakesh" /></a> </p>
 
 
-
+<p align="left">
+  <a href="https://github.com/yvrakesh/Lab-Assignments"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yvrakesh&repo=Lab-Assignments&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/yvrakesh/Theory-Projects"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yvrakesh&repo=Theory-Projects&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="LaTeX-Gboard-Dictionary"></a>
+  <a href="https://github.com/yvrakesh/50-Projects-In-50-Days-HTML-CSS-JavaScript"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yvrakesh&repo=50-Projects-In-50-Days-HTML-CSS-JavaScript&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/yvrakesh/Leetcode"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yvrakesh&repo=Leetcode&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="unicode-formatter"></a>
+  <a href="https://github.com/yvrakesh/Project-Euler-Solutions-C-CPP-Java-Python"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=yvrakesh&repo=Project-Euler-Solutions-C-CPP-Java-Python&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="weather-app-tutorial"></a>
+  <a href="https://github.com/yvrakesh/Competitive-Coding"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yvrakesh&repo=Competitive-Coding&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="table2ascii"></a>
+</p>
 <!-- <a href="https://github.com/yvrakesh"><img alt="Yacha Venkata Rakesh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yvrakesh&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
