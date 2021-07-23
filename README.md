@@ -32,3 +32,5 @@ Here are some ideas to get you started:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=yvrakesh&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yvrakesh&hide=TeX&layout=compact)
+
+<a href="https://github.com/yvrakesh"><img alt="Yacha Venkata Rakesh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yvrakesh&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
