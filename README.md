@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 [![Codechef Badge](https://cp-logo.vercel.app/codechef/yvrakesh)](https://www.codechef.com/users/yvrakesh)
 [![Codeforces Badge](https://cp-logo.vercel.app/codeforces/venkatarakesh1234y)](https://codeforces.com/profile/venkatarakesh1234y)
 <img src="https://komarev.com/ghpvc/?username=yvrakesh&label=Github Profile Views&color=0e75b6&style=flat" alt="yvrakesh" />
+![Profile last updated](https://img.shields.io/github/last-commit/yvrakesh/yvrakesh/main?label=Profile%20Last%20updated&style=flat)
 
 <a href="https://github.com/yvrakesh"><img alt="Yacha Venkata Rakesh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=yvrakesh&count_private=true&include_all_commits=true&hide=issues&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 
