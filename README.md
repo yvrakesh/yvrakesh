@@ -1,27 +1,15 @@
 ### Hi there 👋 I'm Yacha Venkata Rakesh
 
-<!--
-**yvrakesh/yvrakesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 📫 How to reach me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-yvrakesh-blue?style=flat-rectangle&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yvrakesh/)
 [![Instagram Badge](https://img.shields.io/badge/-yvrakesh7-purple?style=rectangle&logo=instagram&logoColor=white)](https://instagram.com/yvrakesh7)
 [![Facebook Badge](https://img.shields.io/badge/yvrakesh7-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/yvrakesh7)
 [![Gmail Badge](https://img.shields.io/badge/-yachavenkatarakesh-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yachavenkatarakesh@gmail.com)](mailto:yachavenkatarakesh@gmail.com)
+[![Whatsapp](https://img.shields.io/badge/-yvrakesh-25D366?style=flat-square&logo=Whatsapp&logoColor=white)](https://api.WhatsApp.com/send?phone=+91%207997669577)
+[![Telegram](https://img.shields.io/badge/-yvrakesh-2CA5E0?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/yvrakesh)
 [![Leetcode Badge](https://img.shields.io/badge/-yvrakesh-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/yvrakesh/)
+[![Kaggle](https://img.shields.io/badge/yvrakesh-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/yvrakesh)
 [![Hackerrank Badge](https://img.shields.io/badge/-yvrakesh-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/yvrakesh?hr_r=1)
 
 [![Codechef Badge](https://cp-logo.vercel.app/codechef/yvrakesh)](https://www.codechef.com/users/yvrakesh)
@@ -40,6 +28,8 @@ Here are some ideas to get you started:
 [![Java Script](https://img.shields.io/badge/JavaScript-★★★-lightgrey?labelColor=F7DF1E&logo=javascript&style=for-the-badge&logoColor=black)]()
 [![MySQL](https://img.shields.io/badge/MYSQL-★★★-lightgrey?labelColor=3776AB&logo=mysql&style=for-the-badge&logoColor=white)]()
 [![Flutter](https://img.shields.io/badge/Flutter-★★★-lightgrey?labelColor=02569B&logo=flutter&style=for-the-badge&logoColor=white)]()
+[![Node JS](https://img.shields.io/badge/Node.js-★★★-lightgrey?labelColor=339933&style=for-the-badge&logo=nodedotjs&logoColor=white)]()
+[![Flask](https://img.shields.io/badge/Flask-★★★-lightgrey?labelColor=000000&style=for-the-badge&logo=flask&logoColor=white)]()
 
 <a href="https://github.com/yvrakesh"><img alt="Yacha Venkata Rakesh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=yvrakesh&count_private=true&include_all_commits=true&hide=issues&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 
