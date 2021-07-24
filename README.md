@@ -29,6 +29,18 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=yvrakesh&label=Github Profile Views&color=0e75b6&style=flat" alt="yvrakesh" />
 ![Profile last updated](https://img.shields.io/github/last-commit/yvrakesh/yvrakesh/main?label=Profile%20Last%20updated&style=flat)
 
+<h4>Skills</h4>
+
+[![C](https://img.shields.io/badge/★★★★-lightgrey?labelColor=3776AB&logo=C&style=for-the-badge&logoColor=white)]()
+[![CPP](https://img.shields.io/badge/CPP-★★★★-lightgrey?labelColor=3776AB&logo=c%2B%2B&style=for-the-badge&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-★★-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)]()
+[![HTML](https://img.shields.io/badge/HTML-★★★★-lightgrey?labelColor=red&logo=html5&style=for-the-badge&logoColor=white)]()
+[![CSS](https://img.shields.io/badge/CSS-★★★-lightgrey?labelColor=blue&logo=css3&style=for-the-badge&logoColor=white)]()
+[![BootStrap](https://img.shields.io/badge/BootStrap-★★★-lightgrey?labelColor=darkblue&logo=bootstrap&style=for-the-badge&logoColor=white)]()
+[![Java Script](https://img.shields.io/badge/JavaScript-★★★-lightgrey?labelColor=yellow&logo=javascript&style=for-the-badge&logoColor=white)]()
+[![MySQL](https://img.shields.io/badge/MYSQL-★★★-lightgrey?labelColor=3776AB&logo=mysql&style=for-the-badge&logoColor=white)]()
+[![Flutter](https://img.shields.io/badge/Flutter-★★★-lightgrey?labelColor=3776AB&logo=flutter&style=for-the-badge&logoColor=white)]()
+
 <a href="https://github.com/yvrakesh"><img alt="Yacha Venkata Rakesh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=yvrakesh&count_private=true&include_all_commits=true&hide=issues&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yvrakesh&theme=dark&width=30%)](https://git.io/streak-stats)
