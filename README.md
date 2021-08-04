@@ -30,7 +30,7 @@
 [![Node JS](https://img.shields.io/badge/Node.js-★★★-lightgrey?labelColor=339933&style=for-the-badge&logo=nodedotjs&logoColor=white)]()
 [![Flask](https://img.shields.io/badge/Flask-★★★-lightgrey?labelColor=000000&style=for-the-badge&logo=flask&logoColor=white)]()
 
-<a href="https://github.com/yvrakesh"><img alt="Yacha Venkata Rakesh's Github Stats" src="https://github-readme-stats-yvrakesh.vercel.app/api/?username=yvrakesh&count_private=true&include_all_commits=true&hide=issues&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/yvrakesh"><img alt="Yacha Venkata Rakesh's Github Stats" src="https://github-readme-stats-yvrakesh.vercel.app/api/?username=yvrakesh&count_private=true&include_all_commits=true&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yvrakesh&theme=dark&width=30%)](https://git.io/streak-stats)
 
