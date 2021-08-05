@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm Yacha Venkata Rakesh
 
-📫 How to reach me:
-
 [![Linkedin Badge](https://img.shields.io/badge/-yvrakesh-blue?style=flat-rectangle&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yvrakesh/)
 [![Instagram Badge](https://img.shields.io/badge/-yvrakesh7-purple?style=rectangle&logo=instagram&logoColor=white)](https://instagram.com/yvrakesh7)
 [![Facebook Badge](https://img.shields.io/badge/yvrakesh7-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/yvrakesh7)
