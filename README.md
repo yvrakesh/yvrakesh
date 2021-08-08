@@ -11,7 +11,7 @@
 [![Codechef Badge](https://cp-logo.vercel.app/codechef/yvrakesh?logo=true)](https://www.codechef.com/users/yvrakesh)
 [![Codeforces Badge](https://cp-logo.vercel.app/codeforces/venkatarakesh1234y?logo=true)](https://codeforces.com/profile/venkatarakesh1234y)
 [![Leetcode Badge](https://cp-logo.vercel.app/leetcode/yvrakesh?logo=true)](https://leetcode.com/yvrakesh)
-<img src="https://komarev.com/ghpvc/?username=yvrakesh&label=Views&color=0e75b6&style=flat" alt="yvrakesh" />
+<img src="https://komarev.com/ghpvc/?username=yvrakesh&label=Profile Views&color=0e75b6&style=flat" alt="yvrakesh" />
 ![Profile last updated](https://img.shields.io/github/last-commit/yvrakesh/yvrakesh/main?label=Profile%20Last%20updated&style=flat)
 
 <h4>Skills</h4>
