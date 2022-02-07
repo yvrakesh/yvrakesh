@@ -30,7 +30,7 @@
 
 <!-- <a href="https://github.com/yvrakesh"><img alt="Yacha Venkata Rakesh's Github Stats" src="https://github-readme-stats-yvrakesh.vercel.app/api/?username=yvrakesh&count_private=true&include_all_commits=true&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a> -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yvrakesh&theme=dark&width=30%)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yvrakesh&theme=dark&width=30%)](https://github.com/yvrakesh/)
 
 <a href="https://github.com/yvrakesh"><img alt="Yacha Venkata Rakesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvrakesh&hide=Jupyter Notebook, Less, Yacc&count_private=true&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="250px"/></a>
 <a href="https://github.com/yvrakesh"><img src="https://github-profile-trophy.vercel.app/?username=yvrakesh&theme=darkhub&row=2&column=3&margin-w=5&margin-h=5" width="400px" alt="yvrakesh" /></a> </p>
