@@ -16,13 +16,13 @@
 
 <h4>Skills</h4>
 
-[![C](https://img.shields.io/badge/★★★★-lightgrey?labelColor=00599C&logo=C&style=for-the-badge&logoColor=white)]()
-[![CPP](https://img.shields.io/badge/CPP-★★★★-lightgrey?labelColor=00599C&logo=c%2B%2B&style=for-the-badge&logoColor=white)]()
+[![C](https://img.shields.io/badge/★★★★-lightgrey?labelColor=00599C&logo=C&style=for-the-badge&logoColor=white)](https://github.com/yvrakesh/Lab-Assignments)
+[![CPP](https://img.shields.io/badge/CPP-★★★★-lightgrey?labelColor=00599C&logo=c%2B%2B&style=for-the-badge&logoColor=white)](https://github.com/yvrakesh/Competitive-Coding)
 [![Python](https://img.shields.io/badge/Python-★★-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)]()
-[![HTML](https://img.shields.io/badge/HTML-★★★★-lightgrey?labelColor=E34F26&logo=html5&style=for-the-badge&logoColor=white)]()
-[![CSS](https://img.shields.io/badge/CSS-★★★-lightgrey?labelColor=1572B6&logo=css3&style=for-the-badge&logoColor=white)]()
+[![HTML](https://img.shields.io/badge/HTML-★★★★-lightgrey?labelColor=E34F26&logo=html5&style=for-the-badge&logoColor=white)](https://github.com/yvrakesh/HTML-CSS-JS-Projects)
+[![CSS](https://img.shields.io/badge/CSS-★★★-lightgrey?labelColor=1572B6&logo=css3&style=for-the-badge&logoColor=white)](https://github.com/yvrakesh/HTML-CSS-JS-Projects)
 [![BootStrap](https://img.shields.io/badge/BootStrap-★★★-lightgrey?labelColor=563D7C&logo=bootstrap&style=for-the-badge&logoColor=white)]()
-[![Java Script](https://img.shields.io/badge/JavaScript-★★★-lightgrey?labelColor=F7DF1E&logo=javascript&style=for-the-badge&logoColor=black)]()
+[![Java Script](https://img.shields.io/badge/JavaScript-★★★-lightgrey?labelColor=F7DF1E&logo=javascript&style=for-the-badge&logoColor=black)](https://github.com/yvrakesh/HTML-CSS-JS-Projects)
 [![MySQL](https://img.shields.io/badge/MYSQL-★★★-lightgrey?labelColor=3776AB&logo=mysql&style=for-the-badge&logoColor=white)]()
 [![Flutter](https://img.shields.io/badge/Flutter-★★★-lightgrey?labelColor=02569B&logo=flutter&style=for-the-badge&logoColor=white)]()
 [![Node JS](https://img.shields.io/badge/Node.js-★★★-lightgrey?labelColor=339933&style=for-the-badge&logo=nodedotjs&logoColor=white)]()
