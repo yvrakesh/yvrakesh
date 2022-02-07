@@ -5,12 +5,12 @@
 [![Facebook Badge](https://img.shields.io/badge/yvrakesh7-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/yvrakesh7)
 [![Gmail Badge](https://img.shields.io/badge/-yachavenkatarakesh-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yachavenkatarakesh@gmail.com)](mailto:yachavenkatarakesh@gmail.com)
 [![Telegram](https://img.shields.io/badge/-yvrakesh-2CA5E0?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/yvrakesh)
-[![Kaggle](https://img.shields.io/badge/yvrakesh-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/yvrakesh)
-[![Hackerrank Badge](https://img.shields.io/badge/-yvrakesh-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/yvrakesh?hr_r=1)
 
-[![Codechef Badge](https://cp-logo.vercel.app/codechef/yvrakesh?logo=true)](https://www.codechef.com/users/yvrakesh)
-[![Codeforces Badge](https://cp-logo.vercel.app/codeforces/yvrakesh?logo=true)](https://codeforces.com/profile/yvrakesh)
-[![Leetcode Badge](https://cp-logo.vercel.app/leetcode/yvrakesh?logo=true)](https://leetcode.com/yvrakesh)
+[![Codechef Badge](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/yvrakesh)
+[![Codeforces Badge](https://img.shields.io/badge/Codeforces-445f9d?style=flat-square&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/yvrakesh)
+[![Leetcode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/yvrakesh)
+[![Hackerearth Badge](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=flat-square&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@yvrakesh)
+[![Hackerrank Badge](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/yvrakesh?hr_r=1)
 <img src="https://komarev.com/ghpvc/?username=yvrakesh&label=Profile Views&color=0e75b6&style=flat" alt="yvrakesh" />
 ![Profile last updated](https://img.shields.io/github/last-commit/yvrakesh/yvrakesh/main?label=Profile%20Last%20updated&style=flat)
 
