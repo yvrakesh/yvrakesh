@@ -1,8 +1,8 @@
-### Hi there 👋 I'm Yacha Venkata Rakesh
+### Hi 👋 I'm <strong>Venkata Rakesh Yacha</strong>
 
 [![Linkedin Badge](https://img.shields.io/badge/-yvrakesh-blue?style=flat-rectangle&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yvrakesh/)
 [![Instagram Badge](https://img.shields.io/badge/-yvrakesh7-purple?style=rectangle&logo=instagram&logoColor=white)](https://instagram.com/yvrakesh7)
-[![Facebook Badge](https://img.shields.io/badge/yvrakesh7-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/yvrakesh7)
+[![Facebook Badge](https://img.shields.io/badge/yvrakesh7-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/yvenkatarakesh)
 [![Gmail Badge](https://img.shields.io/badge/-yachavenkatarakesh-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yachavenkatarakesh@gmail.com)](mailto:yachavenkatarakesh@gmail.com)
 [![Telegram](https://img.shields.io/badge/-yvrakesh-2CA5E0?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/yvrakesh)
 
@@ -28,12 +28,12 @@
 [![Node JS](https://img.shields.io/badge/Node.js-★★★-lightgrey?labelColor=339933&style=for-the-badge&logo=nodedotjs&logoColor=white)]()
 [![Flask](https://img.shields.io/badge/Flask-★★★-lightgrey?labelColor=000000&style=for-the-badge&logo=flask&logoColor=white)]()
 
-<a href="https://github.com/yvrakesh"><img alt="Yacha Venkata Rakesh's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=yvrakesh&count_private=true&include_all_commits=true&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<!-- <a href="https://github.com/yvrakesh"><img alt="Yacha Venkata Rakesh's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=yvrakesh&count_private=true&include_all_commits=true&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yvrakesh&theme=dark&width=30%)](https://github.com/yvrakesh/)
 
 <a href="https://github.com/yvrakesh"><img alt="Yacha Venkata Rakesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvrakesh&hide=Jupyter Notebook, Less, Yacc&count_private=true&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="250px"/></a>
-<a href="https://github.com/yvrakesh"><img src="https://github-profile-trophy.vercel.app/?username=yvrakesh&theme=darkhub&row=2&column=3&margin-w=5&margin-h=5" width="400px" alt="yvrakesh" /></a> </p>
+<a href="https://github.com/yvrakesh"><img src="https://github-profile-trophy.vercel.app/?username=yvrakesh&theme=darkhub&row=2&column=3&margin-w=5&margin-h=5" width="400px" alt="yvrakesh" /></a> </p> -->
 
 [![Lab Assignments Github Repo](https://github-readme-stats.vercel.app/api/pin/?username=yvrakesh&repo=Lab-Assignments&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/yvrakesh/Lab-Assignments)
 [![Theory Projects Github Repo](https://github-readme-stats.vercel.app/api/pin/?username=yvrakesh&repo=Theory-Projects&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/yvrakesh/Theory-Projects)
@@ -46,5 +46,5 @@
 <!-- [![Flask Web Application](https://github-readme-stats.vercel.app/api/pin/?username=yvrakesh&repo=Flask-Web-Application&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true)](https://github.com/yvrakesh/Flask-Web-Application) -->
 <!-- [![Placement Preparation](https://github-readme-stats.vercel.app/api/pin/?username=yvrakesh&repo=Placement-Preparation&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true)](https://github.com/yvrakesh/Placement-Preparation) -->
 
-
-<a href="https://github.com/yvrakesh"><img alt="Yacha Venkata Rakesh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yvrakesh&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<!-- 
+<a href="https://github.com/yvrakesh"><img alt="Yacha Venkata Rakesh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yvrakesh&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
